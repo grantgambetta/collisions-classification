@@ -4,4 +4,4 @@ A gradient boosting machine (XGBoost) to classify different types of car collisi
 
 Dataset contains over 9 million records and 74 features before preprocessing.
 
-Next steps: fine-tune the model.
+Next step: fine-tune the model using grid search.
