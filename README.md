@@ -1,4 +1,4 @@
-# Classifying car collisions
+# Classification of collisions
 
 A gradient boosting machine (XGBoost) to classify different types of car collisions out of 8 categories: rear end, broadside, sideswipe, hit object, head-on, pedestrian, overturned, or other.
 
